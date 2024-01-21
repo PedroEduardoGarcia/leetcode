@@ -23,3 +23,5 @@ Return true if the value of the root is equal to the sum of the values of its tw
 
 - `The tree consists only of the root, its left child, and its right child.`
 - `-100 <= Node.val <= 100`
+
+[**See the problem on LeetCode**](https://leetcode.com/problems/root-equals-sum-of-children/)
