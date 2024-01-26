@@ -1,6 +1,6 @@
 # 2235. Add Two Integers
 
-`easy` <br />
+`Easy` <br />
 Given two integers `num1` and `num1`, return the sum of the two integers.
 
 **Example 1:**
