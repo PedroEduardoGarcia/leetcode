@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Description | Difficulty |
 |---| ----- | -------- | ----------- | ---------- |
+|0088|[Merge Sorted Array](./src/0088-Merge-Sorted-Arrays) | [Python](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.py), [C++](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.cpp), [JS](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.js) |[Description](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.md)  |Easy |
 |0383|[Ransom Note](./src/0383-Ransom-Note) | [Python](./src/0383-Ransom-Note/ransom_note.py), [C++](./src/0383-Ransom-Note/ransom_note.cpp), [JS](./src/0383-Ransom-Note/ransom_note.js) |[Description](./src/0383-Ransom-Note/ransom_note.md)  |Easy |
 |0412|[Fizz Buzz](./src/0412-Fizz-Buzz) | [Python](./src/0412-Fizz-Buzz/fizz_buzz.py), [C++](./src/0412-Fizz-Buzz/fizz_buzz.cpp), [JS](./src/0412-Fizz-Buzz/fizz_buzz.js) |[Description](./src/0412-Fizz-Buzz/fizz_buzz.md)  |Easy |
 |0485|[Max Consecutive Ones](./src/0485-Max-Consecutive-Ones) | [Python](./src/0485-Max-Consecutive-Ones/max_consecutive_ones.py), [C++](./src/0485-Max-Consecutive-Ones/max_consecutive_ones.cpp), [JS](./src/0485-Max-Consecutive-Ones/max_consecutive_ones.js) |[Description](./src/0485-Max-Consecutive-Ones/max_consecutive_ones.md)  |Easy |
