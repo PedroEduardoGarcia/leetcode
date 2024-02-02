@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Description | Difficulty |
 |---| ----- | -------- | ----------- | ---------- |
+|0026|[Remove Duplicates from Sorted Array](./src/0026-Remove-Duplicates-from-Sorted-Array) | [Python](./src/0026-Remove-Duplicates-from-Sorted-Array/remove_duplicates_from_sorted_array.py), [C++](./src/0026-Remove-Duplicates-from-Sorted-Array/remove_duplicates_from_sorted_array.cpp), [JS](./src/0026-Remove-Duplicates-from-Sorted-Array/remove_duplicates_from_sorted_array.js) |[Description](./src/0026-Remove-Duplicates-from-Sorted-Array/remove_duplicates_from_sorted_array.md)  |Easy |
 |0027|[Remove Element](./src/0027-Remove-Element) | [Python](./src/0027-Remove-Element/remove_element.py), [C++](./src/0027-Remove-Element/remove_element.cpp), [JS](./src/0027-Remove-Element/remove_element.js) |[Description](./src/0027-Remove-Element/remove_element.md)  |Easy |
 |0088|[Merge Sorted Array](./src/0088-Merge-Sorted-Arrays) | [Python](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.py), [C++](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.cpp), [JS](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.js) |[Description](./src/0088-Merge-Sorted-Arrays/merge_sorted_arrays.md)  |Easy |
 |0383|[Ransom Note](./src/0383-Ransom-Note) | [Python](./src/0383-Ransom-Note/ransom_note.py), [C++](./src/0383-Ransom-Note/ransom_note.cpp), [JS](./src/0383-Ransom-Note/ransom_note.js) |[Description](./src/0383-Ransom-Note/ransom_note.md)  |Easy |
