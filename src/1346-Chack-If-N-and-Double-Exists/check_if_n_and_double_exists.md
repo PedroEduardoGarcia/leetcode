@@ -24,4 +24,4 @@ Given an array `arr` of integers, check if there exist two indices `i` and `j` s
 - `2 <= arr.length <= 500`
 - `-103 <= arr[i] <= 103`
 
-[**See the problem on LeetCode**](https://leetcode.com/problems/merge-sorted-array/)
+[**See the problem on LeetCode**](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
