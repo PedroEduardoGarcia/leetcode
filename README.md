@@ -1,8 +1,25 @@
 # LeetCode Solutions
 
-//TODO
+[![LeetCode](https://img.shields.io/badge/LeetCode-<pedroeduardogarcia>-brightgreen.svg)](https://leetcode.com/u/gpe/) **¨**
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-1.22-blue.svg)](https://golang.org/)
+[![C++](https://img.shields.io/badge/C++-20-orange.svg)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Solutions
+
+#TODO
+
+Welcome to my LeetCode Solutions repository! This repository contains solutions to various LeetCode problems that I've worked on. My goal is to practice and improve my problem-solving skills using multiple programming languages.
+
+## About me
+
+#TODO
+
+## Repository Overview
+
+#TODO
+
+## Solutions Index
 
 | # | Title | Solution | Description | Difficulty |
 |---| ----- | -------- | ----------- | ---------- |
@@ -95,3 +112,15 @@
 |2971|[Find Polygon With the Largest Perimeter](./src/2971-Find-Polygon-With-the-Largest-Perimeter) | [**.py**](./src/2971-Find-Polygon-With-the-Largest-Perimeter/find_polygon_with_the_largest_perimeter.py), [**.cpp**](./src/2971-Find-Polygon-With-the-Largest-Perimeter/find_polygon_with_the_largest_perimeter.cpp), [**.js**](./src/2971-Find-Polygon-With-the-Largest-Perimeter/find_polygon_with_the_largest_perimeter.js) |[Description](./src/2971-Find-Polygon-With-the-Largest-Perimeter/find_polygon_with_the_largest_perimeter.md)  |Medium |
 |2974|[Minimum Number Game](./src/2974-Minimum-Number-Game) | [**.py**](./src/2974-Minimum-Number-Game/minimum_number_game.py), [**.cpp**](./src/2974-Minimum-Number-Game/minimum_number_game.cpp), [**.js**](./src/2974-Minimum-Number-Game/minimum_number_game.js) |[Description](./src/2974-Minimum-Number-Game/readme.md)  |Easy |
 |3005|[Count Elements With Maximum Frequency](./src/3005-Count-Elements-With-Maximum-Frequency) | [**.py**](./src/3005-Count-Elements-With-Maximum-Frequency/count_elements_with_maximum_frequency.py), [**.cpp**](./src/3005-Count-Elements-With-Maximum-Frequency/count_elements_with_maximum_frequency.cpp), [**.js**](./src/3005-Count-Elements-With-Maximum-Frequency/count_elements_with_maximum_frequency.js) |[Description](./src/3005-Count-Elements-With-Maximum-Frequency/readme.md)  |Easy |
+
+## Contribuition
+
+#TODO
+
+## Thank you
+
+#TODO
+
+## Licence
+
+#TODO
